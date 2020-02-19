@@ -1,0 +1,8 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "API Gateway",
+      "version": "1.0.0",
+      "description": "<a href=https://ey.com>Click here to login</a>"
+    }
+}

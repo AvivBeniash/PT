@@ -4,11 +4,6 @@
       "title": "API Gateway",
       "version": "1.0.0",
       "description": "<a href=https://ey.com>Click here to login</a>"
-    },
-    "servers": [
-      {
-        "url": "https://gw.staging.local:30797:5050/APIGateway"
-      }
-    ], 
+    }
 }
   
